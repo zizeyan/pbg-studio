@@ -1,0 +1,14 @@
+[options]
+kind=basic
+caption=薄板与光面
+description=薄板和光面零件示例
+sortOn=none
+mascot=3020.dat
+<items>
+3020.dat
+3021.dat
+3022.dat
+3023.dat
+3024.dat
+3068b.dat
+3069b.dat

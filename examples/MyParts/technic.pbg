@@ -1,0 +1,13 @@
+[options]
+kind=basic
+caption=科技零件
+description=销、轴与带孔梁示例
+sortOn=none
+mascot=2780.dat
+<items>
+2780.dat
+3700.dat
+3701.dat
+3705.dat
+3706.dat
+6558.dat

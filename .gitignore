@@ -1,0 +1,30 @@
+# Runtime data and local configuration
+/data/
+
+# Build and test outputs
+/bin/
+/obj/
+/dist/
+/artifacts/
+/TestResults/
+/test-output/
+/smoke*.png
+*.exe
+*.dll
+*.pdb
+*.mdb
+*.zip
+
+# Editors
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Backups and temporary files
+*.bak
+*.tmp
+*.log
+
+# Local toolchain
+/toolchain/

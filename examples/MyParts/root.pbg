@@ -1,0 +1,14 @@
+[options]
+kind=basic
+caption=我的零件框
+description=PBG Studio 示例项目
+sortOn=none
+sortDesc=false
+sortCaseInSens=true
+mascot=3001.dat
+<items>
+bricks
+plates
+technic
+3001.dat
+3020.dat
